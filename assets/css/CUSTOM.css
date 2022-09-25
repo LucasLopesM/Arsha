@@ -1,0 +1,42 @@
+
+
+#ensino {
+
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.why-us .accordion-list li {
+  padding: 20px;
+  background: rgb(253,29,29);
+background: linear-gradient(90deg, rgba(253,29,29,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+
+  border-radius: 4px;
+}
+
+
+#team{
+
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+
+}
+
+
+.why-us .content h3 {
+  font-weight: 400;
+  font-size: 34px;
+  color: #f0e6e2;
+}
+
+.why-us .content h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+
+.why-us .content h5 {
+  font-family: "Open Sans", sans-serif;
+  color: #f0e6e2;
+
+}
